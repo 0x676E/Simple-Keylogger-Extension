@@ -17,12 +17,12 @@ Simple Keylogger Extension studies about how a Keylogger works and it's power.
 - Browse to the location of the folder you unzipped and select the manifest.json file.
 
 **Chromium:**
-- Go to chrome://extensions in Chrome.
+- Go to chrome://extensions in Chromium.
 - Activate developer mode using the button on the right.
 - Click Load Unzipped on the left side of the screen.
 - Browse to the location of the folder you unzipped and select it.
 
-You can find projects for Firefox and Chrome under Releases.
+You can find projects for Firefox and Chromium under Releases.
 
 ## Usage 🖥️
 To use Simple Keylogger Extension, all you have to do is install and start typing, each key you press will be sent to its API and will be shown in the console developer tool.
