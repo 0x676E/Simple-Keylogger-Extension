@@ -14,7 +14,7 @@
 	};
 
 	function sendData(data) {
-		browser.runtime.sendMessage({
+		chrome.runtime.sendMessage({
 			data: data
 		});
 	}

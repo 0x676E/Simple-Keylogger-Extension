@@ -1,4 +1,4 @@
-browser.runtime.onMessage.addListener(handleMessage);
+chrome.runtime.onMessage.addListener(handleMessage);
 
 async function handleMessage(request) {
 	console.log(request.data);
